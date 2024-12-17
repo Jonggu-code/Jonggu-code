@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code&fontSize=70)
 <!--
 **Jonggu-code/Jonggu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
