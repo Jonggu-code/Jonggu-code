@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code&fontAlignY=30&fontSize=74&desc=Github%20Profile&descSize=20&fontColor=ffffff&descAlign=69&descAlignY=48)
 
-<div style="position: relative; display: inline-block;">
+<div style="position: relative; display: flex; align-items: center; justify-content: center;">
   <pre id="code-box" style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">
     <code>소통과 화합을 중요시하는, 인간 중심의 프론트엔드 개발자 박종찬입니다.</code>
   </pre>
