@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code&fontAlignY=30&fontSize=74&desc=Github%20Profile&descSize=20&fontColor=ffffff&descAlign=69&descAlignY=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code&fontAlignY=30&fontSize=74&desc=Github%20Profile&descSize=20&fontColor=000000&descAlign=69&descAlignY=48)
 
 <div align="center" style="text-align: center; font-size: 18px;">
   <pre>소통과 화합을 중요시하는, 인간 중심의 프론트엔드 개발자 박종찬입니다.</pre>
