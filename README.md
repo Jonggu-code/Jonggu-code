@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code&fontAlignY=30&fontSize=74&desc=Github%20Profile&descSize=20&fontColor=000000&descAlign=69&descAlignY=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jonggu-code&fontAlignY=30&fontSize=74&desc=Github%20Profile&descSize=20&fontColor=000000&descAlign=69&descAlignY=48&theme=default)
 
 <div align="center" style="text-align: center; font-size: 18px;">
   <pre>소통과 화합을 중요시하는, 인간 중심의 프론트엔드 개발자 박종찬입니다.</pre>
@@ -59,13 +59,15 @@
 <h4 align="center">📫 Contact 📫</h4>
 <div align="center">
   <a href="https://jongstechblog.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=Tistory&logoColor=white"/>&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:00whdcks@gmail.com">
     <img
       src="https://img.shields.io/badge/00whdcks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&theme=default)
 <!--
 **Jonggu-code/Jonggu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
