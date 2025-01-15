@@ -61,9 +61,9 @@
   <a href="https://jongstechblog.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=Tistory&logoColor=white"/>&nbsp
   </a>
-  <a href="mailto:00whdcks@gmail.com">
+  <a href="mailto:jonggucode@gmail.com">
     <img
-      src="https://img.shields.io/badge/00whdcks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/jonggucode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
