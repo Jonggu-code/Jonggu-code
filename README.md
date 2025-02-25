@@ -58,8 +58,8 @@
 
 <h4 align="center">📫 Contact 📫</h4>
 <div align="center">
-  <a href="https://jongstechblog.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=Tistory&logoColor=white"/>&nbsp
+  <a href="https://velog.io/@00whdcks/posts">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:jonggucode@gmail.com">
     <img
